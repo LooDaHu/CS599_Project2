@@ -10,7 +10,7 @@ https://github.com/LooDaHu/CS599_Project2/blob/master/document_file/Project2_wee
 
 ### The Figure to generate
 
-![avatar](https://github.com/LooDaHu/CS599_Project2/blob/master/document_file/Graph_Convolutional_Networks_for_Text_Classification_figure2%2C.png)
+![avatar](https://github.com/LooDaHu/CS599_Project2/blob/master/document_file/Graph_Convolutional_Networks_for_Text_Classification_figure2.png?raw=true)
 
 Yuan Luo, et al. Graph Convolutional Networks for Text Classification, Figure 2
 
