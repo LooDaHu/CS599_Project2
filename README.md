@@ -29,5 +29,5 @@ Yuan Luo, et al. Graph Convolutional Networks for Text Classification, Figure 2
 ### Steps to Reproduce
 1. Download the project 
 2. Install Requried Packages 
-3. In your shell, run command "python main.py" or "python3 main.py"
+3. In your shell, run command "python main.py" or "python3 main.py"<br>
 Note: Make file may not be used, it just for explain the dependencies to create the figure.
