@@ -8,7 +8,7 @@ Implement the GCN to re-create figure. Yuan Luo, et al. Graph Convolutional Netw
 
 https://github.com/LooDaHu/CS599_Project2/blob/master/document_file/Project2_week1.pdf
 
-### The Figure to generate
+### The Figure to Generate
 
 ![avatar](https://github.com/LooDaHu/CS599_Project2/blob/master/document_file/Graph_Convolutional_Networks_for_Text_Classification_figure2.png?raw=true)
 
@@ -16,7 +16,7 @@ Yuan Luo, et al. Graph Convolutional Networks for Text Classification, Figure 2
 
 
 
-### Necessary software: 
+### Necessary Software: 
 * Python3
 ### Required Package: 
 * Tensorflow 2.0.0 <br>
@@ -26,7 +26,7 @@ Yuan Luo, et al. Graph Convolutional Networks for Text Classification, Figure 2
 * scipy 1.3.3 <br>
 * networkx 2.4 <br></li>
 
-### Steps to reproduce
+### Steps to Reproduce
 1. Download the project 
 2. Install Requried Packages 
 3. In your shell, run command "python main.py" or "python3 main.py"
