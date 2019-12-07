@@ -17,14 +17,14 @@ Yuan Luo, et al. Graph Convolutional Networks for Text Classification, Figure 2
 
 
 ### Necessary software: 
- Python3
+* Python3
 ### Required Package: 
-  Tensorflow 2.0.0 <br>
-  numpy 1.17.4 <br>
-  matplotlib 3.1.2 <br>
-  scikit-learn 0.22 <br>
-  scipy 1.3.3 <br>
-  networkx 2.4 <br>
+* Tensorflow 2.0.0 <br>
+* numpy 1.17.4 <br>
+* matplotlib 3.1.2 <br>
+* scikit-learn 0.22 <br>
+* scipy 1.3.3 <br>
+* networkx 2.4 <br></li>
 
 ### Steps to reproduce
 1. Download the project 
