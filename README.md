@@ -1,4 +1,4 @@
-## Project 2 GCN 
+## Project 2 Text-GCN 
 
 ### Purpose
 
