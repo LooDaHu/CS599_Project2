@@ -19,4 +19,5 @@ rvenv:
 
 run:
 	source ./venv/bin/activate
-	python main.py r9-train-all-terms.txt
+	python figure1.py ./text_gcn/data/mr
+	python figure2.py ./text_gcn/data/R8
